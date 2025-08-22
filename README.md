@@ -99,10 +99,7 @@ Feel free to fork this repo and enhance it — for example:
 - Integrate Gmail API for OAuth login  
 - Add logging / error handling  
 
----
-
-## 📄 License
-This project is licensed under the MIT License.  
+--- 
 
 ## ✍️ Author
 
